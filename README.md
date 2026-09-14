@@ -6,6 +6,25 @@ A 6-page **Power BI supply chain analytics project** built to turn operational d
   <img src="assets/01_Executive_Overview.jpg" width="100%" alt="Supply Chain Executive Overview Dashboard">
 </p>
 
+<p align="center">
+  <a href="https://raw.githubusercontent.com/HussieniGamal/Supply-Chain-PowerBI-Analysis/main/Supply%20Chain%20Analysis.pbix">
+    <img src="https://img.shields.io/badge/Download-Power%20BI%20File-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Download Power BI File">
+  </a>
+  <a href="DAX_Measures.md">
+    <img src="https://img.shields.io/badge/View-DAX%20Measures-0A66C2?style=for-the-badge" alt="View DAX Measures">
+  </a>
+  <a href="PROJECT_INSIGHTS.md">
+    <img src="https://img.shields.io/badge/View-Project%20Insights-2EA44F?style=for-the-badge" alt="Project Insights">
+  </a>
+</p>
+
+## 📦 Project Files
+
+- **[Download Power BI Dashboard (.pbix)](https://raw.githubusercontent.com/HussieniGamal/Supply-Chain-PowerBI-Analysis/main/Supply%20Chain%20Analysis.pbix)**
+- **[DAX Measures](DAX_Measures.md)**
+- **[Project Insights](PROJECT_INSIGHTS.md)**
+- **[Data Dictionary](DATA_DICTIONARY.md)**
+
 ## 📊 Project Snapshot
 
 - **100 SKUs** analyzed
@@ -55,7 +74,7 @@ Evaluates stock position against demand to identify potential inventory imbalanc
 - **Potential Stockout:** sales above benchmark + stock below benchmark
 - **Potential Overstock:** sales below benchmark + stock above benchmark
 - **Healthy High Demand:** sales and stock above benchmark
-- **Low Priority:** sales and stock below benchmark
+- **Low Priority:** sales and stock below benchmarks
 
 **Result**
 - **21 potential stockout SKUs**
@@ -145,13 +164,27 @@ The project uses DAX for:
 
 See **[DAX_Measures.md](DAX_Measures.md)** for selected measures and explanations.
 
-Additional documentation:
-- **[Project Insights](PROJECT_INSIGHTS.md)**
-- **[Data Dictionary](DATA_DICTIONARY.md)**
-
 ## 🛠️ Tools & Skills Demonstrated
 
 `Power BI` `DAX` `Power Query` `Excel` `Data Modeling` `KPI Design` `Data Visualization` `Business Analysis` `Supply Chain Analytics`
+
+## 📁 Repository Structure
+
+```text
+Supply-Chain-PowerBI-Analysis/
+├── Supply Chain Analysis.pbix
+├── README.md
+├── DAX_Measures.md
+├── PROJECT_INSIGHTS.md
+├── DATA_DICTIONARY.md
+└── assets/
+    ├── 01_Executive_Overview.jpg
+    ├── 02_Sales_Analysis.jpg
+    ├── 03_Inventory_Analysis.jpg
+    ├── 04_Supplier_Analysis.jpg
+    ├── 05_Manufacturing_Analysis.jpg
+    └── 06_Shipping_Logistics_Analysis.jpg
+```
 
 ## ⚠️ Data Limitation
 
