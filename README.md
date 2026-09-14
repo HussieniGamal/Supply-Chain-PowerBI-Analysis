@@ -2,6 +2,26 @@
 
 A 6-page **Power BI supply chain analytics project** built to turn operational data into clear, decision-ready insights across sales, inventory, suppliers, manufacturing, and logistics.
 
+## 🖼️ Dashboard Preview
+
+### Executive Overview
+![Executive Overview](assets/01_Executive_Overview.webp)
+
+### Sales Analysis
+![Sales Analysis](assets/02_Sales_Analysis.webp)
+
+### Inventory Analysis
+![Inventory Analysis](assets/03_Inventory_Analysis.webp)
+
+### Supplier Analysis
+![Supplier Analysis](assets/04_Supplier_Analysis.webp)
+
+### Manufacturing Analysis
+![Manufacturing Analysis](assets/05_Manufacturing_Analysis.webp)
+
+### Shipping & Logistics Analysis
+![Shipping & Logistics Analysis](assets/06_Shipping_Logistics_Analysis.webp)
+
 ## 📊 Project Snapshot
 
 - **100 SKUs** analyzed
@@ -115,7 +135,11 @@ The project uses DAX for:
 - Manufacturing KPIs
 - Shipping and logistics KPIs
 
-See **DAX_Measures.md** for selected measures and explanations.
+See **[DAX_Measures.md](DAX_Measures.md)** for selected measures and explanations.
+
+Additional documentation:
+- **[Project Insights](PROJECT_INSIGHTS.md)**
+- **[Data Dictionary](DATA_DICTIONARY.md)**
 
 ## 🛠️ Tools & Skills Demonstrated
 
