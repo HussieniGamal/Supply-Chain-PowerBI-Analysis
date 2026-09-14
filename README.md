@@ -2,25 +2,9 @@
 
 A 6-page **Power BI supply chain analytics project** built to turn operational data into clear, decision-ready insights across sales, inventory, suppliers, manufacturing, and logistics.
 
-## 🖼️ Dashboard Preview
-
-### Executive Overview
-![Executive Overview](assets/01_Executive_Overview.webp)
-
-### Sales Analysis
-![Sales Analysis](assets/02_Sales_Analysis.webp)
-
-### Inventory Analysis
-![Inventory Analysis](assets/03_Inventory_Analysis.webp)
-
-### Supplier Analysis
-![Supplier Analysis](assets/04_Supplier_Analysis.webp)
-
-### Manufacturing Analysis
-![Manufacturing Analysis](assets/05_Manufacturing_Analysis.webp)
-
-### Shipping & Logistics Analysis
-![Shipping & Logistics Analysis](assets/06_Shipping_Logistics_Analysis.webp)
+<p align="center">
+  <img src="assets/01_Executive_Overview.jpg" width="100%" alt="Supply Chain Executive Overview Dashboard">
+</p>
 
 ## 📊 Project Snapshot
 
@@ -48,6 +32,10 @@ This dashboard was designed to answer practical questions such as:
 ### 1. Executive Overview
 A high-level view of revenue, sales, stock, quality, and product performance.
 
+<p align="center">
+  <img src="assets/01_Executive_Overview.jpg" width="100%" alt="Executive Overview">
+</p>
+
 ### 2. Sales Analysis
 Tracks category, SKU, and customer-segment performance.
 
@@ -55,6 +43,10 @@ Tracks category, SKU, and customer-segment performance.
 - Skincare generated about **$241.6K** in revenue
 - Skincare sold about **20.7K units**
 - Top revenue SKU: **SKU51 (~$9.9K)**
+
+<p align="center">
+  <img src="assets/02_Sales_Analysis.jpg" width="100%" alt="Sales Analysis">
+</p>
 
 ### 3. Inventory Analysis
 Evaluates stock position against demand to identify potential inventory imbalance.
@@ -69,6 +61,10 @@ Evaluates stock position against demand to identify potential inventory imbalanc
 - **21 potential stockout SKUs**
 - **25 potential overstock SKUs**
 
+<p align="center">
+  <img src="assets/03_Inventory_Analysis.jpg" width="100%" alt="Inventory Analysis">
+</p>
+
 ### 4. Supplier Analysis
 Compares supplier performance across lead time, defects, inspections, and stock-risk exposure.
 
@@ -77,6 +73,10 @@ Compares supplier performance across lead time, defects, inspections, and stock-
 - Supplier 5 has the highest average defect rate: **2.67**
 - Supplier 1 has the lowest average defect rate: **1.80**
 - Supplier 1 is linked to the highest number of stock-risk SKUs: **7**
+
+<p align="center">
+  <img src="assets/04_Supplier_Analysis.jpg" width="100%" alt="Supplier Analysis">
+</p>
 
 ### 5. Manufacturing Analysis
 Monitors production volume, manufacturing cost, lead time, and quality.
@@ -88,6 +88,10 @@ Monitors production volume, manufacturing cost, lead time, and quality.
 - Failed inspections: **36**
 - Average defect rate: **2.28**
 
+<p align="center">
+  <img src="assets/05_Manufacturing_Analysis.jpg" width="100%" alt="Manufacturing Analysis">
+</p>
+
 ### 6. Shipping & Logistics Analysis
 Compares carrier performance, transportation modes, route costs, shipping speed, and logistics cost.
 
@@ -97,6 +101,10 @@ Compares carrier performance, transportation modes, route costs, shipping speed,
 - Sea is the slowest transportation mode: **7.12 days**
 - Air has the highest average transportation cost: **562**
 - Route B has the highest average route cost: **596**
+
+<p align="center">
+  <img src="assets/06_Shipping_Logistics_Analysis.jpg" width="100%" alt="Shipping and Logistics Analysis">
+</p>
 
 ## 💡 Key Business Insights
 
